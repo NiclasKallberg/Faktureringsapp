@@ -11,14 +11,6 @@ namespace WebApplication.Utilities
 {
     public class ErrorHandler
     {
-        //GlobalExceptionHandler som namn?
-
-
-
-
-
-
-
         public enum ErrorTypes
         {
             RetrieveFailed,
