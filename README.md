@@ -4,6 +4,6 @@ Det här är ett fakturerings- och kundregisterprogram där man kan ha en databa
 
 ## 🛠️ Arkitektur & tech-stack
 
-* **Frontend**: ASP.NET Web Forms, HTML5, CSS3, JavaScript (Vanilla), jQuery
-* **Backend**: C# (.NET Framework)
-* **Database**: MySQL (med lagrade procedurer)
+* **Frontend**: ASP.NET Web Forms, HTML5, CSS3, Vanilla JavaScript, jQuery
+* **Backend**: C#/.NET Framework
+* **Database**: MySQL
